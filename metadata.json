@@ -1,0 +1,6 @@
+{
+  "name": "CofoundEngine",
+  "description": "AI-powered cofounder engine for founders: Idea to Plan, Content Engine, 30-Day Campaign Builder, and Pitch Deck Spec.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
